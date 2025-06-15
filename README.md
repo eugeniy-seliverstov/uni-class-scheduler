@@ -1,19 +1,9 @@
-# 3-lab
+# Class Scheduler
 
-## Project setup
-```
-npm install
-```
+> ⚠️ This repository is archived and no longer maintained.  
+> It was originally created as part of a university assignment.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Description
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A basic scheduling interface for managing classroom assignments and time slots.  
+Built with **JavaScript** to simulate simple timetable generation and validation logic.
